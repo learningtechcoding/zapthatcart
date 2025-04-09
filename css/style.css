@@ -1411,7 +1411,7 @@ ul.footer-list li a:hover {
 .contact2-hero-section {
     width: 100%;
     position: relative;
-    background: url(../images/content.jpg) 50% top no-repeat fixed;
+   
     background-size: cover;
     color: white;
     margin: 0 auto;
